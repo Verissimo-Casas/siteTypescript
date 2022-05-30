@@ -4,7 +4,7 @@
   "description": "",
   "main": "webpack.config.js",
   "scripts": {
-    "dev": "echo \"Error: no test specified\" && exit 1"
+    "dev": "SET NODE_ENV=development webpack --progress --watch"
   },
   "keywords": [],
   "author": "",
